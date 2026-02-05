@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary: red;
+            --primary: blue;
             --accent: #00d4ff;
             --light: #f6f9fc;
             --dark: #1a1a1a;
