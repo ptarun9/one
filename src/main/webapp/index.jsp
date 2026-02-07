@@ -787,7 +787,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">Nexus<span>Perala</span></a>
+            <a href="#" class="logo">Nexus<span>Chirala</span></a>
             
             <nav id="mainNav">
                 <ul>
